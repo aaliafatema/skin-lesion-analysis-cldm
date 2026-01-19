@@ -37,8 +37,7 @@ The repository includes:
 ```text
 ├── Skin_Lesion.ipynb            # Main notebook for skin lesion analysis
 ├── temp_model.ipynb             # Experimental / prototype model notebook
-├── HAM10000.zip                 # Dataset archive (if included)
-├── 453_Camera_Ready_Paper.pdf   # Final research paper
+├── Reseach_Paper.pdf   # Final research paper
 ├── Presentation.pptx            # Project presentation slides
 ├── Turnitin_Report.pdf          # Similarity / plagiarism report
 ├── README.md                    # Project documentation
@@ -182,5 +181,6 @@ This repository is created **strictly for academic evaluation and research**.
 It is **not approved for medical or clinical use**.
 
 ---
+
 
 
